@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @inoyatulla-dev
-- [Telegram](https://t.me/inoyatulla_dev)
-- [Instagram](https://www.instagram.com/inoyatulla_dev)
+👋 Hi, I'm Inoyat Rajabboyev
 
-<!---
-inoyatulla-dev/inoyatulla-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Electronics | IoT | Automation | Software Developer
 
+I am passionate about building smart electronic systems, IoT devices, and automation solutions.
+I enjoy combining software and hardware to create practical technologies.
+
+🚀 About Me
+
+🎓 Electronics & Software enthusiast
+
+🔧 Working with Arduino, ESP32, PLC systems
+
+🌐 Interested in IoT and Automation Systems
+
+💻 Developing embedded systems and control software
+
+🚀 Founder of Amutech – Automation & IoT Solutions
